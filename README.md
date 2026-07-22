@@ -1,10 +1,10 @@
 # Hello Word! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack;Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack+Developer)
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl0PP4&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🐍 Contribuições no GitHub
+## 🐍My Github contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg">
