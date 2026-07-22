@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: SEU_USUARIO_AQUI
+          github_user_name: Fl0PP4
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
