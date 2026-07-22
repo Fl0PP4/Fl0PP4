@@ -14,11 +14,7 @@
 
 ## 🐍My Github contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
-</picture>
+<img alt="snake" src="https://raw.githubusercontent.com/Fl0PP4/Fl0PP4/output/github-snake.svg">
 
 
 
