@@ -1,20 +1,22 @@
-# Hello Word! 👋
+# Hello World
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack+Developer)
-
----
-
-## 📊 Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl0PP4&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl0PP4&layout=compact&theme=tokyonight&hide_border=true)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer)
 
 ---
 
-## 🐍My Github contributions
+## Stats
 
-<img alt="snake" src="https://raw.githubusercontent.com/Fl0PP4/Fl0PP4/output/github-snake.svg">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F10PP4&show_icons=true&theme=dracula&count_private=true&v=4)
+
+---
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F10PP4/F10PP4/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F10PP4/F10PP4/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/F10PP4/F10PP4/output/github-snake.svg">
+</picture>
 
 
 
